@@ -4,25 +4,30 @@ Soy estudiante de **Ingeniería Informática** en la **Universidad de Alcalá (U
 
 ---
 
-#### 🛠️ Tecnologías y Herramientas
-Aquí están las lenguajes y herramientas que estoy aprendiendo y utilizando en mis prácticas y proyectos:
+#### 🛠️ Stack Tecnológico
+Aquí están los lenguajes y herramientas que utilizo en mi día a día:
 
-* **Lenguajes:** C, C++, Java, Python
-* **Bases de Datos:** SQL, Postgres
-* **Herramientas:** Git, Linux, VS Code, CodeBlocks, NetBeans, Pycharm.
+* **Lenguajes:**
+ ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+* **Backend & Bases de Datos:**
+ ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/sql-gray?style=for-the-badge&logo=sqlite)
+
+* **Herramientas & Entorno:**
+ ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black)
 
 ---
 
 #### 🔭 Actualmente estoy trabajando en...
-* Profundizar en la creación de APIs con python y sus usos. Utilizo Uvicorn y FastAPI en una MV de Ubuntu.
-* Trabajar con IA para aprender su lógica y funcionamiento permitiendome sacar el máximo partido de esta herramienta.
+* **Desarrollo Backend:** Creación de APIs REST con **Python, Uvicorn y FastAPI** desplegadas en entornos **Linux (Ubuntu)**.
+* **Inteligencia Artificial:** Estudio de lógica y funcionamiento de LLMs para integración en software.
 
-#### 🌱 Estoy aprendiendo sobre...
-* El campo de la ciberseguridad: pentesting, CTF, criptografía, hacking ético, etc.
-* El objetivo es cursar un master en Ciberseguridad proporcionado por la UAH.
+#### 🔐 Objetivo: Ciberseguridad (SecDevOps)
+Me estoy formando de manera autodidacta para cursar el futuro Máster en Ciberseguridad de la UAH.
+* **Intereses:** Pentesting, CTFs, Criptografía y Hacking Ético.
 
 ---
 
 #### 📫 Contacto
 ¡Estaré encantado de conectar contigo!
-* 📧 oscarlorojo2006@gmail.com
+* 📧 **Email:** oscarlorojo2006@gmail.com
